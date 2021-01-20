@@ -7,7 +7,7 @@ const Header = () => {
     return (
             // setup the navbar
                 <nav className="navbar">
-                <a className="navbar-brand">Jay Peek</a>
+                <p className="navbar-brand">Jay Peek</p>
                   <NavLink
                     exact
                     activeClassName="navbar__link--active"

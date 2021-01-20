@@ -6,3 +6,5 @@ In the future this page will be updated with more portfolio links as well as add
 Update: This app has been rewritten using React.js.
 
 ![picture](src/assets/ProfileScreenShot.png)
+
+Application deployed to [Heroku](https://ancient-plateau-89014.herokuapp.com)
