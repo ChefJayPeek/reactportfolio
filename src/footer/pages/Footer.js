@@ -5,7 +5,7 @@ import React from 'react';
 const Footer = () => {
     return (
             // setup the footer
-            <footer className="bg-light text-center text-lg-start">
+            <footer className="bg-light text-center text-sm-start">
             {/*  Copyright */}
             <div className="text-center p-3">
               © 2021 Copyright:
